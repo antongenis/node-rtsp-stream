@@ -1,7 +1,7 @@
 {
-  "name": "node-rtsp-stream",
-  "version": "0.0.8",
-  "description": "",
+  "name": "essence-node-rtsp-stream",
+  "version": "0.0.1",
+  "description": "Stream RTSP to WS",
   "main": "index.js",
   "scripts": {
     "prepublish": "npm run test",
@@ -9,10 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kyriesent/node-rtsp-stream.git"
+    "url": "https://github.com/antongenis/node-rtsp-stream.git"
   },
-  "author": "David Jsa <david@jsa.me>",
-  "license": "MIT",
+  "author": "Anton Genis",
+  "license": "ISA",
   "devDependencies": {
     "mocha": "^5.2.0"
   },
